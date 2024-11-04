@@ -8,15 +8,15 @@
 
 <div>
  
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gabriellorenss/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gab_loren7/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lorenssetti-8a352a29b/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gab.poleto/)
+
 
 </div>
 
 <div style="display:block;">
  
-![Gabriel Lorenssetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Gab-loren7&show_icons=true&theme=transparent)
+![Gabriel_Poleto GitHub stats](https://github-readme-stats.vercel.app/api?username=Dropintin&show_icons=true&theme=transparent)
 <img height="195em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-loren7&layout=compact&langs_count=7&theme=transparent"/> 
 </div>
 
