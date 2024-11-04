@@ -1,7 +1,7 @@
  <!-- Cabeçario -->
 
   <h1>
-    👋 Olá, meu nome é Gabriel Lorenssetti 👋
+     Olá, meu nome é Gabriel Poleto 
   </h1>
   
 <br>
