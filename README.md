@@ -3,6 +3,7 @@
   <h1>
      Olá, meu nome é Gabriel Poleto 
   </h1>
+<img width="575" height="553" alt="image" src="https://github.com/user-attachments/assets/52798d78-2844-4669-b6c1-c65416fe4028" />
 
 
 
