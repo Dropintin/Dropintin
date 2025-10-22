@@ -1,8 +1,11 @@
  <!-- Cabeçario -->
 
   <h1>
-     Olá, meu nome é Gabriel Poleto 
+     Olá, meu nome é Gabriel Poleto and I love Niggers
   </h1>
+
+  <img width="575" height="553" alt="image" src="https://github.com/user-attachments/assets/65c78763-551b-4663-bb64-da2803db2d1a" />
+
   
 <br>
 
