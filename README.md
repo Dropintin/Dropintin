@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus Trevisan Ribeiro</h1>
+<h1 align="center">Hi 👋, Sou Gabriel Alves Poleto</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer em formação | Web Applications
@@ -15,29 +15,29 @@ explorar novas tecnologias e evoluir profissionalmente.
 
 ### 👨‍💻 Projetos
 🔗 Confira meus projetos no portfólio:  
-👉 **https://portmatheus.netlify.app/**
+👉 **https://poletofolio2025.netlify.app/pagina%20inicial/**
 
 ---
 
 ### 📫 Contato
 📧 Email:  
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=matheustrevribeiro@gmail.com" target="_blank">
-  <strong>matheustrevribeiro@gmail.com</strong>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielpoletoalves@gmail.com" target="_blank">
+  <strong>gabrielpoletoalves@gmail.com</strong>
 </a>
 
 ---
 
 ### ⚡ Curiosidade
-💡 Gosto de sair com meus amigos e estudar coisas novas, sempre buscando aprender algo diferente.
+💡 Gosto de Jogo e sair com os amigos.
 
 ---
 
 ### 🌐 Conecte-se comigo
 <p align="left">
-  <a href="https://linkedin.com/in/matheus-trevisan-ribeiro-9615a139a" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-poleto-87758539b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/matheus_trevisann" target="_blank">
+  <a href="https://instagram.com/gb.poleto" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
 </p>
