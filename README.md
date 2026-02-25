@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Sou Gabriel Alves Poleto</h1>
+<h1 align="center">Oi 👋, Sou Gabriel Alves Poleto</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer em formação | Web Applications
